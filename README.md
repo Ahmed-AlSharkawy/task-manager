@@ -16,12 +16,12 @@ Welcome to the Task Manager Web Application repository! This application allows 
 -   Composer
 -   Node.js >= 10.x
 -   npm or Yarn
--   MySQL (or any other supported database)
+-   MySQL
 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/Ahmed-AlSharkawy/task-manager.git
 ```
 
 ### Backend Setup
@@ -29,7 +29,7 @@ git clone https://github.com/your-username/task-manager.git
 1. Navigate to the application directory:
 
 ```bash
-cd backend
+cd task-manager
 ```
 
 2. Install PHP dependencies:
@@ -100,8 +100,6 @@ cd vue
 ```bash
 npm install
 ```
-
-#### or
 
 3. Start the Vue.js development server:
 
